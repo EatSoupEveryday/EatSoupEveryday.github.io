@@ -1,6 +1,3 @@
 # EatSoupEveryday.github.io
 
-|## header
-
-I eat soup
-
+(terrible) Engineering Club Website
